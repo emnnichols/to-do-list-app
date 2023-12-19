@@ -12,7 +12,9 @@ width: 300px;
 margin: 0 auto;
 margin-top: 40px;
 background: white;
-border-radius: 5px;}
+border-radius: 5px;
+text-align: center;
+}
 
 form {
 display: inline-block;
